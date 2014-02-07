@@ -133,6 +133,5 @@ def play_hangman():
 
     return None
 
-
 #To play
-play_hangman()    
+hangman()
