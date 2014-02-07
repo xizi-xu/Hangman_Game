@@ -1,5 +1,4 @@
 # hangman_lib.py
-# A set of library functions for use with your Hangman game
 #
 #
 # The gallows image used by the print_hangman_image(..) function is
