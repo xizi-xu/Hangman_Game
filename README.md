@@ -1,4 +1,4 @@
-hangman-robot
+Hangman
 =============
 
-Hangman game in Python
+Simple hangman game built in Python
